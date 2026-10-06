@@ -8,7 +8,6 @@
 
 ### 🚀 Sobre mim
 
-*   🔭 Atualmente focado no desenvolvimento e arquitetura de um **CRM Interno**.
 *   💡 Entusiasta na criação de interfaces modernas e APIs robustas.
 
 ### 💻 Minha Stack
